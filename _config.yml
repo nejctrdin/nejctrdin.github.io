@@ -1,0 +1,10 @@
+name: "Test site"
+description: "Foo"
+
+url: "http://nejctrdin.github.io"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true

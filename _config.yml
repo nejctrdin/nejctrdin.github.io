@@ -5,5 +5,6 @@ url: "http://nejctrdin.github.io"
 
 paginate: 10
 
+
 markdown: rdiscount
 permalink: pretty
